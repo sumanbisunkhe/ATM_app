@@ -14,12 +14,6 @@ Backend: Java Spring Boot
 Database: PostgreSQL
 Authentication: Spring Security
 
-Setup Instructions
-Clone the repository: git clone <repository-url>
-Navigate to the backend directory: cd atm-backend
-Run the backend server: ./mvnw spring-boot:run
-Access the API documentation at: http://localhost:8080/swagger-ui.html
-
 Usage
 Register a new customer account.
 Log in with the registered credentials.
