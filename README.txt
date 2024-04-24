@@ -1,4 +1,5 @@
-﻿# ATM Application
+ATM Application
+
 Description
 The ATM Application is a simple web-based application that simulates basic ATM functionalities such as creating customer accounts, depositing and withdrawing funds, and checking account balances.
 
@@ -12,7 +13,6 @@ Technologies Used
 Backend: Java Spring Boot
 Database: PostgreSQL
 Authentication: Spring Security
-API Documentation: Swagger UI
 
 Setup Instructions
 Clone the repository: git clone <repository-url>
@@ -26,7 +26,6 @@ Log in with the registered credentials.
 Deposit funds into the account.
 Withdraw funds from the account.
 Check account balance.
-Log out from the application.
 
 Contributor
 Suman Bisunkhe
